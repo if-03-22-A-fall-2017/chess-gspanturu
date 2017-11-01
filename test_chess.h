@@ -2,9 +2,9 @@
  *				HTBLA-Leonding / Klasse: 2AHDV
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			chess.c
+ * Title:			test_chess.h
  * Author:			Gloria Sara Panturu
- * Due Date:		October 13, 2017
+ * Due Date:		November 3, 2017
  * ----------------------------------------------------------
  */
 #ifndef ___CHESS_TEST_H

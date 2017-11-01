@@ -1,17 +1,16 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: 2AHDV
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			chess.c
+ * Title:			chess.h
  * Author:			Gloria Sara Panturu
- * Due Date:		October 13, 2017
+ * Due Date:		November 3, 2017
  * ----------------------------------------------------------
  */
 #ifndef ___CHESS_H
 #define ___CHESS_H
  enum PieceType{ Pawn, Rook, Knight, Bishop, Queen, King, NoPiece};
  enum PieceColor {White, Black};
-
  enum MoveType{NormalMove, CaptureMove};
 
 struct ChessPiece {

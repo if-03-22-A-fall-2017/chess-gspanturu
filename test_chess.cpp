@@ -1,10 +1,10 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: 2AHDV
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			chess.c
+ * Title:			test_chess.cpp
  * Author:			Gloria Sara Panturu
- * Due Date:		October 13, 2017
+ * Due Date:		November 3, 2017
  * ----------------------------------------------------------
  */
 #include "shortcut.h"
