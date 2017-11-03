@@ -1,12 +1,10 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding
+ *				HTBLA-Leonding / Klasse: 2AHDV
  * ---------------------------------------------------------
- * Title:			shortcut
- * Author:			P. Bauer
- * Date:			November 03, 2010
- * ----------------------------------------------------------
- * Description:
- * A simple unit testing frame work for C.
+ * Exercise Number: 0
+ * Title:			chess.c
+ * Author:			Gloria Sara Panturu
+ * Due Date:		October 13, 2017
  * ----------------------------------------------------------
  */
 #ifndef ___SHORTCUT_H

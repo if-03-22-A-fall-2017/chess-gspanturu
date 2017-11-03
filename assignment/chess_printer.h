@@ -2,12 +2,8 @@
  *				HTBLA-Leonding / Klasse: 2AHDV
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			chess_printer.h
- * Author:			P. Bauer
- * Due Date:		November 03, 2010
- * ----------------------------------------------------------
- * Description:
- * Functions for printing a chess board.
+ * Author:			Gloria Sara Panturu
+ * Due Date:		October 13, 2017
  * ----------------------------------------------------------
  */
 

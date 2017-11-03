@@ -1,13 +1,9 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: 2AHDV
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			test_chess.c
- * Author:			P. Bauer
- * Due Date:		November 9, 2010
- * ----------------------------------------------------------
- * Description:
- * Test functions for chess.
+ * Author:			Gloria Sara Panturu
+ * Due Date:		October 13, 2017
  * ----------------------------------------------------------
  */
 #include "shortcut.h"
